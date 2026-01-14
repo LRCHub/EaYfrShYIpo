@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "5:20AM",
+  "base_artist": "刀酱",
+  "createdAt": "2026-01-14T08:42:13.256162Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "5:20AM",
+      "artist": "刀酱",
+      "has_synced": false,
+      "path": "select/01_5_20AM_刀酱.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "5:20am (Just Text Me Back)",
+      "artist": "Tafari Anthony",
+      "has_synced": true,
+      "path": "select/02_5_20am_(Just_Text_Me_Back)_Tafari_Anthony.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "5:20AM (我在5:20睡觉13:14准时醒)",
+      "artist": "刀酱5:20AM",
+      "has_synced": true,
+      "path": "select/03_5_20AM_(我在5_20睡觉13_14准时醒)_刀酱5_20AM.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "5:20AM",
+      "artist": "刀酱",
+      "has_synced": true,
+      "path": "select/04_5_20AM_刀酱.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "5:20AM",
+      "artist": "刀醬",
+      "has_synced": true,
+      "path": "select/05_5_20AM_刀醬.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "5:20AM (钢琴版)",
+      "artist": "刀酱",
+      "has_synced": false,
+      "path": "select/06_5_20AM_(钢琴版)_刀酱.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "5:20AM(凌晨五点二十)",
+      "artist": "周明明",
+      "has_synced": false,
+      "path": "select/07_5_20AM(凌晨五点二十)_周明明.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "5:20AM (伴奏)",
+      "artist": "河南甜妹",
+      "has_synced": false,
+      "path": "select/08_5_20AM_(伴奏)_河南甜妹.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "5:20AM",
+      "artist": "刀酱",
+      "has_synced": false,
+      "path": "select/pl_01_5_20AM_刀酱.txt"
+    }
+  ]
+}
